@@ -1,0 +1,4 @@
+<databaseInformation>
+<user>${mss.user}</user>
+<password>${mss.pass}</password>
+</databaseInformation>
